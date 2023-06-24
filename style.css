@@ -773,6 +773,10 @@ h1, h2{
     margin-top:4rem ; 
     height :fit-content; 
  }
+.swiper-slide{
+    border: o.05rem solid var(---color-bg-4);
+    height:fit-content; 
+}
  /*********************exhibitions******************/
  .exhibitions__head >p {
     width:100%; 
